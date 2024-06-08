@@ -1,2 +1,5 @@
 ./idea
+*.pyc
+
+utils.py
 run.bat
